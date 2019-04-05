@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * **[MainWindow.xaml](./CS/FilteredData/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/FilteredData/MainWindow.xaml))**
-* [MainWindow.xaml.cs](./CS/FilteredData/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/FilteredData/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/FilteredData/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/FilteredData/MainWindow.xaml.vb))
 * [MyGridControl.cs](./CS/FilteredData/MyGridControl/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/FilteredData/MyGridControl/MyGridControl.vb))
 * [MyTreeListDataProvider.cs](./CS/FilteredData/MyGridControl/MyTreeListDataProvider.cs) (VB: [MyTreeListDataProvider.vb](./VB/FilteredData/MyGridControl/MyTreeListDataProvider.vb))
 * [MyTreeListView.cs](./CS/FilteredData/MyGridControl/MyTreeListView.cs) (VB: [MyTreeListView.vb](./VB/FilteredData/MyGridControl/MyTreeListView.vb))
