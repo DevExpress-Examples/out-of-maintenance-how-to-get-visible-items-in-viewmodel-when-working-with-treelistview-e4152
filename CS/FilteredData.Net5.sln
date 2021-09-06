@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteredData", "FilteredData\FilteredData.csproj", "{EB7CD594-1E69-43B1-9848-4F692500D154}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteredData", "FilteredData\FilteredData.Net5.csproj", "{EB7CD594-1E69-43B1-9848-4F692500D154}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
